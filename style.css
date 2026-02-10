@@ -149,3 +149,28 @@ nav ul{
     font-size: 16px;
     margin: 16px 0 24px;
 }
+.foot{
+    background-color: #001931;
+    padding: 120px 120px 30px;
+}
+.foot .links{
+    display: flex;
+    justify-content: space-between;
+}
+.links h3{
+    font-size: 20px;
+    color: white;
+    margin-bottom: 16px;
+}
+.links i{
+    background-color: white;
+    border-radius: 10000px;
+    padding: 4px;
+}
+.ll{
+    text-align: center;
+    color: white;
+}
+.ll hr{
+    margin: 80px 0 30px;
+}
