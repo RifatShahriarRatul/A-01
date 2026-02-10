@@ -29,7 +29,6 @@ nav ul{
 .banner{
     background-image: url(./assets/hero-bg.png);
     background-repeat: no-repeat;
-    height: 674px;
     padding: 115px 120px 180px;
 }
 .ban-head h3{
@@ -70,4 +69,40 @@ nav ul{
     border: 2px solid white;
     border-radius: 4px;
     color: #FFFFFF;
+}
+.problems{
+    padding: 0 120px;
+}
+.prob-cont{
+    padding-top: 70px;
+    text-align: center;
+    margin-bottom: 44px;
+}
+.prob-cont h1{
+    font-size: 48px;
+    margin-bottom: 16px;
+}
+.problems p{
+    font-size: 16px;
+}
+.prob-cards{
+    display: flex;
+    gap: 24px;
+    justify-content: space-between;
+    text-align: center;
+    
+}
+.prob-cards div{
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.208);
+}
+.prob-cards img{
+    background-color:#F95555;
+    padding: 15px;
+    border-radius: 1000px;
+    margin: 70px 131px 16px;
+}
+.prob-cards h2{
+    font-size: 24px;
+    margin: 0 24px 16px;
 }
