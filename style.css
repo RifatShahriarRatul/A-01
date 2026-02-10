@@ -135,3 +135,17 @@ nav ul{
     color: #001931;
     margin-bottom: 16px;
 }
+.challenge{
+    background-color: #F7F6F2;
+    margin: 0 120px 120px;
+    padding: 80px 40px;
+    text-align: center;
+    
+}
+.challenge h1{
+    font-size: 40px;
+}
+.challenge p{
+    font-size: 16px;
+    margin: 16px 0 24px;
+}
